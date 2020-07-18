@@ -1,4 +1,4 @@
-defmodule HelloWeb.PageController do
+csrf_meta_tagdefmodule HelloWeb.PageController do
   use HelloWeb, :controller
 
   def index(conn, _params) do
